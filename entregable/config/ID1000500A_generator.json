@@ -1,0 +1,57 @@
+{
+    "ipdata": {
+        "comment": "THIS IS A TEST",
+        "enom": "TEST",
+        "ipid": "1000500A"
+    },
+    "memories": {
+        "cfgReg": {
+            "comment": "CONFIG REGISTER",
+            "enom": "CCONFIG",
+            "size": "4",
+            "val": "5'b00110"
+        },
+        "memIn": [
+            {
+                "comment": "INPUT MEMX",
+                "enom": "MMEMX",
+                "size": "8",
+                "val": "5'b00000"
+            },
+            {
+                "comment": "INPUT MEMY",
+                "enom": "MMEMY",
+                "size": "8",
+                "val": "5'b00010"
+            }
+        ],
+        "memInStream": {
+        },
+        "memOut": [
+            {
+                "comment": "OUTPUT MEMZ",
+                "enom": "MMEMZ",
+                "size": "16",
+                "val": "5'b00100"
+            }
+        ],
+        "memOutStream": {
+        }
+    },
+    "regs": {
+        "reg1": "",
+        "reg10": "",
+        "reg11": "",
+        "reg12": "",
+        "reg13": "",
+        "reg14": "",
+        "reg15": "",
+        "reg2": "",
+        "reg3": "",
+        "reg4": "",
+        "reg5": "",
+        "reg6": "",
+        "reg7": "",
+        "reg9": ""
+    }
+}
